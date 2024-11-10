@@ -1,10 +1,6 @@
 # My Project Repository
 
-Hello! I’m Lucía, a data science analyst passionate about about the fields of data science and artificial intelligence in today's world. 
-These domains are transforming industries and creating innovative solutions to complex problems. My interest lies in understanding how data can drive decision-making and how AI can enhance our daily lives. 
-Through my projects, I aim to explore various applications of these technologies, from data analysis and visualization to machine learning and predictive modeling.
-I believe that harnessing the power of data can lead to meaningful insights and impactful change.
-
+Hello! I’m Lucía.
 
 This repository is a collection of my university work, projects completed during hackathons, and some personal initiatives. 
 
