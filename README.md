@@ -10,8 +10,6 @@ This repository is a collection of my university work, projects completed during
 
 ## Technologies Used
 
-In my projects, I have utilized various technologies, including:
-
 - **Languages**: Python, RStudio,...
 
 ## How to Navigate the Repository
